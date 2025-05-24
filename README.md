@@ -1,3 +1,9 @@
+Nama : Renaldi Muhammad Fauzi 
+Nim  : 220220027
+Universitas Muhammadiyah Banten 
+
+
+
 # 📱 Android Login & Register App with SQLite
 
 A simple Android application that allows users to register and login using local SQLite database. Built with **Java**, **XML**, and **SQLite** using Android Studio.
