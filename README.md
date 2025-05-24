@@ -12,7 +12,7 @@ Sebuah aplikasi Android sederhana yang memungkinkan pengguna untuk melakukan reg
 
 ---
 
-## 🚀 Features
+## 🚀 Fitur
 
 
 ---
