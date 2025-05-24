@@ -61,6 +61,8 @@ A simple Android application that allows users to register and login using local
 ---
 ##  Tampilan Login 
 ![alt text](https://github.com/renld22/Pemograman4-UMB/blob/master/gambar/login.png?raw=true)
+##   Tampilan Register
+![Register]![alt text](https://github.com/renld22/Pemograman4-UMB/blob/master/gambar/Register.png?raw=true)
 ## 🛠️ Tools & Teknologi
 
 - Java
