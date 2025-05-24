@@ -4,9 +4,9 @@
 
 
 
-# 📱 Aplikasi Login & Registrasi Android dengan SQLite
+# 📱 Aplikasi Login & Register Android dengan SQLite
 
-Sebuah aplikasi Android sederhana yang memungkinkan pengguna untuk melakukan registrasi dan login menggunakan database lokal SQLite. Dibangun menggunakan Java, XML, dan SQLite dengan Android Studio.
+Sebuah aplikasi Android sederhana yang memungkinkan pengguna untuk melakukan register dan login menggunakan database lokal SQLite. Dibangun menggunakan Java, XML, dan SQLite dengan Android Studio.
 
 
 
@@ -17,7 +17,7 @@ Sebuah aplikasi Android sederhana yang memungkinkan pengguna untuk melakukan reg
 
 ---
 
-* **Registrasi dengan Nama, Email, Kata Sandi, dan Konfirmasi Kata Sandi**
+* **Register dengan Nama, Email, Kata Sandi, dan Konfirmasi Kata Sandi**
 * **Login menggunakan Email dan Kata Sandi yang sudah didaftarkan**
 * **Validasi input:**
 
