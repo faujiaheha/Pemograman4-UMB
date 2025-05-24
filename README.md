@@ -1,25 +1,31 @@
-Nama : Renaldi Muhammad Fauzi 
-Nim  : 220220027
-Universitas Muhammadiyah Banten 
+## Nama : Renaldi Muhammad Fauzi 
+## Nim  : 220220027
+## Universitas Muhammadiyah Banten 
 
 
 
-# 📱 Android Login & Register App with SQLite
+# 📱 Aplikasi Login & Registrasi Android dengan SQLite
 
-A simple Android application that allows users to register and login using local SQLite database. Built with **Java**, **XML**, and **SQLite** using Android Studio.
+Sebuah aplikasi Android sederhana yang memungkinkan pengguna untuk melakukan registrasi dan login menggunakan database lokal SQLite. Dibangun menggunakan Java, XML, dan SQLite dengan Android Studio.
+
+
 
 ---
 
 ## 🚀 Features
 
-- Register with **Name**, **Email**, **Password**, and **Confirm Password**
-- Login using registered **Email** and **Password**
-- Input validation:
-  - Valid email format
-  - Password minimum 6 characters
-  - Password and confirmation must match
-- Store user data locally using **SQLite**
-- Display welcome message with user name after login
+
+---
+
+* **Registrasi dengan Nama, Email, Kata Sandi, dan Konfirmasi Kata Sandi**
+* **Login menggunakan Email dan Kata Sandi yang sudah didaftarkan**
+* **Validasi input:**
+
+  * Format email harus valid
+  * Kata sandi minimal 6 karakter
+  * Kata sandi dan konfirmasi harus sama
+* **Simpan data pengguna secara lokal menggunakan SQLite**
+* **Tampilkan pesan sambutan dengan nama pengguna setelah login**
 
 ---
 
