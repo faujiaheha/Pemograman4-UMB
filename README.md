@@ -59,10 +59,16 @@ A simple Android application that allows users to register and login using local
    - Menampilkan pesan: `Selamat Datang, [Nama User]`
 
 ---
-##  Tampilan Login 
+## 📱Tampilan Login 
 ![alt text](https://github.com/renld22/Pemograman4-UMB/blob/master/gambar/login.png?raw=true)
-##   Tampilan Register
-![Register]![alt text](https://github.com/renld22/Pemograman4-UMB/blob/master/gambar/Register.png?raw=true)
+## 📲Tampilan Register
+![alt text](https://github.com/renld22/Pemograman4-UMB/blob/master/gambar/Register.png?raw=true)
+## 📵Login Gagal
+![alt text](https://github.com/renld22/Pemograman4-UMB/blob/master/gambar/login%20gagal.png?raw=true)
+## ⛔Password kurang dari 6 karakter
+![alt text](https://github.com/renld22/Pemograman4-UMB/blob/master/gambar/Password%20kurangg.png?raw=true)
+## ✅Login Berhasil
+![alt text](https://github.com/renld22/Pemograman4-UMB/blob/master/gambar/login%20berhasil.png?raw=true)
 ## 🛠️ Tools & Teknologi
 
 - Java
