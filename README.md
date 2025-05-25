@@ -1,5 +1,5 @@
 ## Nama : Eha
-## Nim  : 220220027
+## Nim  : 220220021
 ## Universitas Muhammadiyah Banten 
 
 
@@ -66,15 +66,15 @@ Sebuah aplikasi Android sederhana yang memungkinkan pengguna untuk melakukan reg
 
 ---
 ## Tampilan Login 
-![alt text](?raw=true)
+![alt text](https://github.com/faujiaheha/Pemograman4-UMB/blob/master/gambar/loginn.png?raw=true)
 ## Tampilan Register
-![alt text](?raw=true)
+![alt text](https://github.com/faujiaheha/Pemograman4-UMB/blob/master/gambar/registerr.png?raw=true)
 ## Login tidak berhasil
-![alt text](?raw=true)
+![alt text](https://github.com/faujiaheha/Pemograman4-UMB/blob/master/gambar/login%20salahh.png?raw=true)
 ## Password kurang dari 6 karakter
-![alt text](?raw=true)
+![alt text](https://github.com/faujiaheha/Pemograman4-UMB/blob/master/gambar/password%20kurangg.png?raw=true)
 ## Login Berhasil
-![alt text](?raw=true)
+![alt text](https://github.com/faujiaheha/Pemograman4-UMB/blob/master/gambar/login%20berhasill.png?raw=true)
 
 
 
