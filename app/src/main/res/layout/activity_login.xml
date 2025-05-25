@@ -5,7 +5,8 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:background="#2C3E50"
+    android:background="#FFD4DC
+"
     android:padding="24dp">
 
     <TextView
@@ -16,7 +17,9 @@
         android:textSize="28sp"
         android:textStyle="bold"
         android:fontFamily="sans-serif-medium"
-        android:textColor="#F5F5F5"
+        android:textColor="#FF93AC
+"
+        android:drawableStart="@drawable/baseline_login_24"
         android:layout_gravity="center_horizontal"
         android:layout_marginBottom="32dp" />
 
@@ -28,9 +31,10 @@
         android:inputType="textEmailAddress"
         android:padding="12dp"
         android:textColor="#000000"
-        android:textColorHint="#888888"
+        android:textColorHint="#FFFFFF"
         android:fontFamily="sans-serif"
-        android:background="#FFFFFF" />
+        android:background="#FC3468
+" />
 
     <EditText
         android:id="@+id/edtPassword"
@@ -41,33 +45,37 @@
         android:inputType="textPassword"
         android:padding="12dp"
         android:textColor="#000000"
-        android:textColorHint="#888888"
+        android:textColorHint="#FFFFFF"
         android:fontFamily="sans-serif"
-        android:background="#FFFFFF" />
+        android:background="#FC3468" />
 
     <androidx.appcompat.widget.AppCompatButton
         android:id="@+id/btnLogin"
-        android:layout_width="match_parent"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="LOGIN"
-        android:textAllCaps="false"
-        android:textColor="#FFFFFF"
+        android:layout_marginTop="24dp"
+        android:layout_gravity="center"
         android:background="@drawable/orange_button_background"
         android:fontFamily="sans-serif-medium"
         android:padding="12dp"
-        android:layout_marginTop="24dp" />
+        android:text="LOGIN"
+        android:textAllCaps="false"
+        android:textColor="#FFFFFF" />
+
 
     <androidx.appcompat.widget.AppCompatButton
         android:id="@+id/btnToRegister"
-        android:layout_width="match_parent"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="BELUM PUNYA AKUN? register"
+        android:text="DAFTAR AKUN"
         android:textAllCaps="true"
         android:textColor="#FFFFFF"
         android:background="@drawable/orange_button_background"
         android:fontFamily="sans-serif-medium"
         android:padding="12dp"
-        android:layout_marginTop="16dp" />
+        android:layout_marginTop="16dp"
+        android:layout_gravity="center" />
+
 
 
 
