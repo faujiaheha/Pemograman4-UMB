@@ -1,4 +1,4 @@
-## Nama : Renaldi Muhammad Fauzi 
+## Nama : Eha
 ## Nim  : 220220027
 ## Universitas Muhammadiyah Banten 
 
@@ -65,36 +65,16 @@ Sebuah aplikasi Android sederhana yang memungkinkan pengguna untuk melakukan reg
    - Menampilkan pesan: `Selamat Datang, [Nama User]`
 
 ---
-## 📱Tampilan Login 
-![alt text](https://github.com/renld22/Pemograman4-UMB/blob/master/pictures/login.png?raw=true)
-## 📲Tampilan Register
-![alt text](https://github.com/renld22/Pemograman4-UMB/blob/master/pictures/Register.png?raw=true)
-## 📵Login Gagal
-![alt text](https://github.com/renld22/Pemograman4-UMB/blob/master/pictures/login%20gagal.png?raw=true)
-## ⛔Password kurang dari 6 karakter
-![alt text](https://github.com/renld22/Pemograman4-UMB/blob/master/pictures/password%20kurang.png?raw=true)
-## ✅Login Berhasil
-![alt text](https://github.com/renld22/Pemograman4-UMB/blob/master/pictures/login%20berhasil.png?raw=true)
-## 🛠️ Tools & Teknologi
+## Tampilan Login 
+![alt text](?raw=true)
+## Tampilan Register
+![alt text](?raw=true)
+## Login tidak berhasil
+![alt text](?raw=true)
+## Password kurang dari 6 karakter
+![alt text](?raw=true)
+## Login Berhasil
+![alt text](?raw=true)
 
-- Java
-- XML Layouts
-- Android Studio
-- SQLite
-- Toast & Intent handling
 
----
-
-## 📦 Cara Menjalankan
-
-1. Clone atau download project ini
-2. Buka dengan **Android Studio**
-3. Jalankan di emulator atau perangkat fisik
-4. Lakukan proses register, lalu login
-
----
-
-## 📄 License
-
-This project is intended for educational purposes and open for learning or improvement.
 
